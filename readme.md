@@ -18,6 +18,12 @@
 
 ![image.png](images/image.png)
 
+- [1.主机基础监控(cpu，内存，磁盘，网络)](https://grafana.com/grafana/dashboards/9276) | [点击下载](https://grafana.com/api/dashboards/9276/revisions/2/download)
+
+![image.png](images/image1.png)
+
+![image.png](images/5730.png)
+
 
 ## 2.注意
 - 模板插件对Grafana版本有要求，请对比官网的版本需求进行选择安装！
